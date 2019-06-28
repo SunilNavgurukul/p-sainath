@@ -32,5 +32,12 @@
         "about": "Khushboo did her schooling through the help of NEEV Foundation. She joined NavGurukul when she was 16 and can currect code well in ReactJS, Python and Node.js",
         "post": "Impact Scout, Delhi",
         "linkedin": "https://www.linkedin.com/in/khushboopandit/"
+    },
+    {
+        "name": "Sunil",
+        "img": "assets/img/alumni/sunil.png",
+        "about": "Sunil has passed his 12th class last year. He was not able to take admission in collage because of his less marks. Then he joined Navgurukul. Now he is working as a java developer at Safal Solutions, Hyderabad",
+        "post": "Safal Solutions PVT.LTD, Hyderabad",
+        "linkedin": "https://www.linkedin.com/in/sunil-parcha-58a6a2182/"
     }
 ]
